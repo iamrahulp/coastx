@@ -1,0 +1,13 @@
+{
+  "name": "CoastX | Experience the coast",
+  "short_name": "CoastX",
+  "description": "Discover coastal Karnataka experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#092f33",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/coastx-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
